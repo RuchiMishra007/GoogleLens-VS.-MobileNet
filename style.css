@@ -1,0 +1,37 @@
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img
+{
+    width: 84;
+    height: 50.9;
+}
+
+h2
+{
+    font-weight: bolder;
+    color: #8A6DF2;
+}
+
+div
+{
+    background-color: #1C0340;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.note
+{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    text-align: center;
+    color: black;
+}
+
+h3
+{
+color: white;
+}
